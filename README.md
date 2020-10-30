@@ -16,5 +16,21 @@ the better
 - If circumstances significantly change, a plan that was designed without 
 these changes in mind will not likely be the best way of moving forward
 ## Scrum
+### The process
+- Divides work up into manageable chunks that can be achieved over a short 
+period of time, or a 'Sprint'
+### How it links to Agile
+
+### Scrum Roles
+
+### Scrum Ceremonies
+
+### Scrum Artifacts
+
+### How have we implemented Agile?
+
+### ¿Cuáles son los 3 amigos?
+
+## Scrum Artifacts
 
 ## Kanban
