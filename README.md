@@ -88,4 +88,25 @@ on team discussion
 ## Scrum Artifacts
 
 ## Kanban
--
+### What is it?
+- Kanban is another framework that implements agile development
+- Work items appear visually on a kanban board so that the team can see the full picture at any point
+- Comes from the Japanese word for signboard
+- Has 4 principles:
+- Start with what you do now. This allows for issues to be highlighted without disrupting the current workflow
+- Agree to pursue incremental, evolutionary change. Large sweeping changed may be met with resistance or uncertainty, this principle minimises that by designing changes to be small and often rathen than large and sudden.
+- Respect the current process, roles and responsibilites. Not everything needs to change, and as seen in the last principle it definitely shouldn't happen suddenly. Understand that current systems are probably there for a reason and don't necessarily need to be torn down.
+- Encourage acts of leadership at all levels. Everyone must foster a mindset of continuous improvement to get the best results.
+### How does it relate to Agile?
+- Can be used to track progress in an easy to understand way
+- Is built to facilitate constant evolutionary change which works very well with an agile mindset
+
+### How does it different/similar to Scrums
+- Has 3 columns: 'Requested', 'In Progress', and 'Done', which is a similar concept to having a sprint backlog with sections for in progress tasks and completed tasks
+- It is highly flexible, so can be applied to existing workflows without disrupting them, unlike Scrums which require more team buy in and planning
+- They are both focused on incremental, evolutionary processes
+- Both contain feedback loops to be able to react to change and new developments
+### When should it be applied?
+- Because of its deliberately non-disruptive design, it can be applied to basically any team
+- When you want to bring transparency and group understanding to projects
+- When you want to limit work in progress so that more gets done
