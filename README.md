@@ -20,17 +20,34 @@ these changes in mind will not likely be the best way of moving forward
 - Divides work up into manageable chunks that can be achieved over a short 
 period of time, or a 'Sprint'
 ### How it links to Agile
-
+- Scrums offer a framework to help the team to work together and continuously produce deliverables
+- Can use Scrums in a non agile setting or as a step towards agile
+- They are both focused on continous improvement so they fit together well
+- Framework that allows the team to adapt to new challenges and grow throughout the development process
 ### Scrum Roles
-
+- Scrum Master: Upholds Agile Values and makes sure that everyone involved can do what they need to do
+- Product Owner: Understands customer needs to be able to manage the scrum backlog
+- Development Team: The people doing the work to complete the sprint goals
 ### Scrum Ceremonies
-
+- Sprint Planning: Deciding what to tackle this sprint
+- Daily Scrum: Short standup meeting to get everyone on the same page
+- Sprint Review: Meeting where the team demo what they've accomplished in the sprint
+- Sprint Retrospective: Identifying what went well and what problems arose for that sprint, and how that knowledge can be used going forward
 ### Scrum Artifacts
-
+- Product backlog: Ever evolving list of features needed for a product
+- Sprint backlog: List of objectives to complete during this sprint
+- Burndown charts- Graphical representation of remaining work in a given sprint. Updated during daily scrums
 ### How have we implemented Agile?
-
+- We have had daily scrums where we've talked about the previous days work and consolidated knowledge
+- We have used Trello to show our Product and Sprint backlogs, moving tasks into the Done sections once completed
+- At the end of the week we've had Sprint reviews about the topics covered that week
+- The weekly one to one meetings with the trainers have acted as Sprint Retrospective
+- We have broken down large tasks into many smaller ones and interated on many of them to constantly improve
 ### ¿Cuáles son los 3 amigos?
-
+- The 3 perspectives to consider when  examining an increment of work so that everyone is on the same page regardless of where there expertise lie, and eliminates areas of confusion and misunderstanding early on
+- Business: Expectations from user stories
+- Development: Understanding of requirements and the length of time required to complete that increment
+- Testing: Finding edge cases and thinking about how the test cases match up with the outlined acceptance criteria
 ## Epic and User Stories
 ### What is a User Story?
 - User stories, sometimes just called stories, are a series of low level requirements or requests from a user's perspective.
