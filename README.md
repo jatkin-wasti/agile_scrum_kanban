@@ -50,9 +50,25 @@ period of time, or a 'Sprint'
 - User stories and Use Cases can help a client to communicate and design the functional and non-functional (technical) requirements.
 - Agile environments are all about rapid iteration, so when using scrums it makes perfect sense to break down a large requirement into smaller sections that can be completed in each sprint. Which is exactly what Epic and User stories facilitate.
 ### Planning Poker
-- 
+- Planning poker is a method of gaining an estimate of effort for a story based
+on team discussion
+- Customer/Client reads a user story
+- Team members make individual estimates without discussing it
+- The team reveals their estimates at the same time
+- The team discuss the estimates, especially outlying values
+- Repeat process until consensus is reached
+- Helps avoid anchoring bias in scrums
+- Uses fibonacci sequence to give time estimations
 ### INVEST
-- 
+- Checklist to assess quality of a User story
+- Quality stories should be:
+- Independant of other stories
+- Negotiable, to be able to discuss further
+- Valuable to the customer/client
+- Estimable, so that they can be allocated to iterations/sprints
+- Small enough to fit in an iteration or sprint
+- Testable, so that it meets given acceptance criteria for the customer/client
 ## Scrum Artifacts
 
 ## Kanban
+-
