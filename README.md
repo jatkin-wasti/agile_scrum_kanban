@@ -120,9 +120,13 @@ on team discussion
 ### How does it different/similar to Scrums
 - Has 3 columns: 'Requested', 'In Progress', and 'Done', which is a similar concept to having a sprint backlog with sections for in progress tasks and completed tasks
 - It is highly flexible, so can be applied to existing workflows without disrupting them, unlike Scrums which require more team buy in and planning
-- They are both focused on incremental, evolutionary processes
+- They are both frameworks focused on incremental, evolutionary processes
 - Both contain feedback loops to be able to react to change and new developments
+- Scrums inherently split a workload into fixed time intervals (sprints), kanban has a continuous workflow
+- Kanban does not require any new roles unlike the 3 roles used for Scrums
+- Scrums are more structured than Kanban
 ### When should it be applied?
 - Because of its deliberately non-disruptive design, it can be applied to basically any team
 - When you want to bring transparency and group understanding to projects
 - When you want to limit work in progress so that more gets done
+- When Scrums sound good but not flexible enough, Kanban is a great choice as there are fewer restrictions i.e. not making changes during sprints and releasing work at the end of sprints as opposed to as soon as they are ready
