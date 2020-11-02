@@ -21,6 +21,7 @@ these changes in mind will not likely be the best way of moving forward
 period of time, or a 'Sprint'
 ### How it links to Agile
 - Scrums offer a framework to help the team to work together and continuously produce deliverables
+- It is one way to deliver an agile development environment
 - Can use Scrums in a non agile setting or as a step towards agile
 - They are both focused on continous improvement so they fit together well
 - Framework that allows the team to adapt to new challenges and grow throughout the development process
@@ -29,10 +30,11 @@ period of time, or a 'Sprint'
 - Product Owner: Understands customer needs to be able to manage the scrum backlog
 - Development Team: The people doing the work to complete the sprint goals
 ### Scrum Ceremonies
-- Sprint Planning: Deciding what to tackle this sprint
-- Daily Scrum: Short standup meeting to get everyone on the same page
-- Sprint Review: Meeting where the team demo what they've accomplished in the sprint
-- Sprint Retrospective: Identifying what went well and what problems arose for that sprint, and how that knowledge can be used going forward
+- Sprint Planning: Deciding what to tackle this sprint. Takes no more hours than double the sprint length in weeks e.g. 2 hours for a 1 week sprint.
+- Daily Scrum: Short standup meeting to get everyone on the same page. What are the team tackling that day, and updating everyone on what happened since the last meeting. Usually less than 15 minutes.
+- Sprint Review: Meeting where the team demo what they've accomplished in the sprint. One hour per sprint week e.g. 3 hour sprint review for a 3 week sprint.
+- Sprint Retrospective: Identifying what went well and what problems arose for that sprint, and how that knowledge can be used going forward. Last no more than 1.5 hours for a 2 week sprint.
+-
 ### Scrum Artifacts
 - Product backlog: Ever evolving list of features needed for a product
 - Sprint backlog: List of objectives to complete during this sprint
