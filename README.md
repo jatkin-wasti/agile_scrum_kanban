@@ -33,6 +33,8 @@ these changes in mind will not likely be the best way of moving forward
 ### The process
 - Divides work up into manageable chunks that can be achieved over a short 
 period of time, or a 'Sprint'
+- Short daily meetings to get everyone on the same page
+- Split work into backlog, doing, and done
 ### How it links to Agile
 - Scrums offer a framework to help the team to work together and continuously produce deliverables
 - It is one way to deliver an agile development environment
@@ -48,7 +50,6 @@ period of time, or a 'Sprint'
 - Daily Scrum: Short standup meeting to get everyone on the same page. What are the team tackling that day, and updating everyone on what happened since the last meeting. Usually less than 15 minutes.
 - Sprint Review: Meeting where the team demo what they've accomplished in the sprint. One hour per sprint week e.g. 3 hour sprint review for a 3 week sprint.
 - Sprint Retrospective: Identifying what went well and what problems arose for that sprint, and how that knowledge can be used going forward. Last no more than 1.5 hours for a 2 week sprint.
--
 ### Scrum Artifacts
 - Product backlog: Ever evolving list of features needed for a product
 - Sprint backlog: List of objectives to complete during this sprint
