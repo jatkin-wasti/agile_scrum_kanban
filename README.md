@@ -5,7 +5,7 @@
 ### Individuals and Interactions over Processes and Tools
 - If the team aren't communicating effectively or capable, it doesn't matter 
 how good your tools or processes are 
-### Working Software over Comprehensive Document
+### Working Software over Comprehensive Documentation
 - You shouldn't let documentation be a bottle neck for creating software
 and getting it into the hands of the customer/client
 ### Customer Collaboration over Contract Negotiation
