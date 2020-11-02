@@ -1,6 +1,7 @@
 # Individual Research
 
-## Agile Values/Prioritisation
+## Agile
+### Agile Values 
 ### Individuals and Interactions over Processes and Tools
 - If the team aren't communicating effectively or capable, it doesn't matter 
 how good your tools or processes are 
@@ -15,6 +16,19 @@ the better
 ### Responding to Change over Following a Plan 
 - If circumstances significantly change, a plan that was designed without 
 these changes in mind will not likely be the best way of moving forward
+### Agile Principles
+- Highest priority is satisfying the customer by continuously delivering quality software
+- Being open to shifting requirements, even ones that come late in development
+- Delivering working software frequently, preferring short timescales to long ones
+- Constant cooperation between the developers and the business people
+- Create an environment where motivated individuals can get their jobs done
+- The best way to convey information is through face to face conversations
+- The primary measure of project progress is working software
+- The framework should be sustainable for all involved so that the work pace is kept up
+- Consant attention to technical excellence and good design enhances agility
+- Simplicity by maximising the amount of work not done
+- Self organising teams lead to the best requirements, architectures, and designs
+- Team regularly reflects on what improvements can be made and then enacts changes to behaviour that enables that improvement
 ## Scrum
 ### The process
 - Divides work up into manageable chunks that can be achieved over a short 
