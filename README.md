@@ -102,8 +102,6 @@ on team discussion
 - Estimable, so that they can be allocated to iterations/sprints
 - Small enough to fit in an iteration or sprint
 - Testable, so that it meets given acceptance criteria for the customer/client
-## Scrum Artifacts
-
 ## Kanban
 ### What is it?
 - Kanban is another framework that implements agile development
